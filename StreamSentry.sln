@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamSentry.Web", "StreamSentry.Web\StreamSentry.Web\StreamSentry.Web.csproj", "{DD83362B-DAD3-4F99-BEAE-8079D2C90A75}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamSentry.Web", "src\StreamSentry.Web\StreamSentry.Web\StreamSentry.Web.csproj", "{DD83362B-DAD3-4F99-BEAE-8079D2C90A75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamSentry.Web.Client", "StreamSentry.Web\StreamSentry.Web.Client\StreamSentry.Web.Client.csproj", "{B4C7EF4D-DB42-4667-932B-1607C9893E88}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamSentry.Web.Client", "src\StreamSentry.Web\StreamSentry.Web.Client\StreamSentry.Web.Client.csproj", "{B4C7EF4D-DB42-4667-932B-1607C9893E88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
